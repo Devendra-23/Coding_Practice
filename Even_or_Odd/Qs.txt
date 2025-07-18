@@ -1,0 +1,2 @@
+Exercise 1: Even or Odd
+Write a Python function that takes a number and returns whether it's even or odd.
