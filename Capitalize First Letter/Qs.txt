@@ -1,0 +1,2 @@
+Capitalize First Letter
+e.g "dev" ➝ "Dev"
