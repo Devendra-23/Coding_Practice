@@ -1,0 +1,4 @@
+Check if Palindrome
+e.g
+  racecar
+  madam
