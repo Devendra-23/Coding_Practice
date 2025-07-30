@@ -1,0 +1,2 @@
+Check if they are Anagrams
+e.g Silent  and listen
