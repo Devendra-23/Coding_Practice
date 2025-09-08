@@ -1,0 +1,9 @@
+For numbers:
+
+Print "Fizz" if divisible by 3
+
+Print "Buzz" if divisible by 5
+
+Print "FizzBuzz" if divisible by both
+
+Else, print the number
